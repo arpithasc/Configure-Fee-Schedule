@@ -10,7 +10,7 @@ Navigate to: **Staff > Staff Info > System Permissions > BillingTracker Access**
 ### Getting Started
 Use this module to define rules for payors that specify the maximum amount an insurance company will pay for specific medical services. Follow the steps below to create a new fee schedule.
 
-![Configure Fee Schedule](./article_configure_fee_schedule_overview_1.png)
+![Configure Fee Schedule](article_configure_fee_schedule_overview_1.png)
 
 1. **Rule Name:** Enter a descriptive name (e.g., “Service Payment Rates by Insurance Plan”).  
 2. **Service:** Select the service from the list.  
