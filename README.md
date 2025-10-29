@@ -7,6 +7,8 @@ The **Configure Fee Schedule** module allows you to create and manage **payor-sp
 The staff member must have full access to the BillingTracker module.  
 Navigate to: **Staff > Staff Info > System Permissions > BillingTracker Access**
 
+---
+
 ### Getting Started
 Use this module to define rules for payors that specify the maximum amount an insurance company will pay for specific medical services. Follow the steps below to create a new fee schedule.
 
